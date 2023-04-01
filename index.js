@@ -43,8 +43,3 @@ symbolsEl.addEventListener('change',function() {
     characters.splice(characters.indexOf("~"),29)
   }
 })
-//characters.splice(characters.indexOf("0"),10)
-console.log(characters.indexOf("0"))
-console.log(characters.indexOf("9"))
-console.log(characters.indexOf("~"))
-console.log(characters.indexOf("/"))
