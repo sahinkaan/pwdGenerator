@@ -3,12 +3,13 @@ body {
     background-color: #1F2937;
     margin: 10vh 5vw;
     min-width: 350px;
-    font-size: 3vmax;
+    min-height: 500px;
+    font-size: 3vmin;
 }
 
 .header{
     font-family: 'Karla', sans-serif;
-    font-size: 6vmax;
+    font-size: 6vmin;
     margin: 0;
     margin-bottom: 2vh;
 }
